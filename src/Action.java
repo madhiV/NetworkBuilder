@@ -1,0 +1,3 @@
+public enum Action {
+    ADD,CONNECT,SET_DEVICE_STRENGTH,INFO_ROUTE
+}
